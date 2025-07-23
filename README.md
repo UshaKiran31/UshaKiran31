@@ -57,10 +57,10 @@ I'm a final-year B.Tech student specializing in **AI & ML** at VVIT, Guntur. Iâ€
 ## ğŸ“ˆ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UshaKiran31&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="49%" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshaKiran31&layout=compact&theme=tokyonight&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UshaKiran31&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshaKiran31&layout=compact&theme=tokyonight&hide_border=false" width="34%" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=UshaKiran31&theme=tokyonight&hide_border=false" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=UshaKiran31&theme=tokyonight&hide_border=false" width="40%" />
 </div>
 
 ---
